@@ -9,6 +9,6 @@ Eric Kavales: Phase 1- We decided to work on the project individually and use co
 Kyshia Patillo: As Mindy and Eric stated, we have worked individually and have held weekly conference calls to discuss the project as well as how to use github. I am in agreement with the code submitted by Mindy for Phase 1.  
 PHASE 2
 
-Mindy Baker:
+Mindy Baker: We continued our weekly conference calls for Phase 2 and uploaded each of our notebooks to github for team review. We seem to have a better grasp on using github.
 Eric Kavales:
 Kyshia Patillo:
