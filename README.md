@@ -12,6 +12,6 @@ PHASE 2
 
 Mindy Baker: We continued our weekly conference calls for Phase 2 and uploaded each of our notebooks to github for team review. Once we have had an opportunity each other's work, we discuss and make changes. We seem to have a better grasp on using github. 
 
-Eric Kavales:
+Eric Kavales: As Mindy stated, we held calls to ensure we are all on the same page as we move forward through the project. Our code for phase 2 is agreed upon and is ready for submission. 
 
 Kyshia Patillo:
