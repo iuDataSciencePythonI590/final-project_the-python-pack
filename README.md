@@ -15,3 +15,11 @@ Mindy Baker: We continued our weekly conference calls for Phase 2 and uploaded e
 Eric Kavales: As Mindy stated, we held calls to ensure we are all on the same page as we move forward through the project. Our code for phase 2 is agreed upon and is ready for submission. 
 
 Kyshia Patillo:  As stated, we continued the weekly call to discuss Phase 2. I initially had issues downloading my file from Jupyter but with some suggestions from the team and some trial and error I have since figured it out.  I am in agreement with the code submitted for Phase 2.  
+
+PHASE 3
+
+Mindy Baker: The team continued with weekly conference calls and shared individual notebooks to improve the final product. Discussions focused on successes, areas for improvement and various methods for achieving the final product.
+
+Eric Kavales:
+
+Kyshia Patillo:
