@@ -20,6 +20,6 @@ PHASE 3
 
 Mindy Baker: The team continued with weekly conference calls and shared individual notebooks to improve the final product. Discussions focused on successes, areas for improvement and various methods for achieving the final product.
 
-Eric Kavales:
+Eric Kavales: We held our weekly conference calls to discuss challenges and successes. All code has been agreed upon and submitted for final review. 
 
 Kyshia Patillo:
