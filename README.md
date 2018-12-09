@@ -22,4 +22,4 @@ Mindy Baker: The team continued with weekly conference calls and shared individu
 
 Eric Kavales: We held our weekly conference calls to discuss challenges and successes. All code has been agreed upon and submitted for final review. 
 
-Kyshia Patillo:
+Kyshia Patillo:  We continued with the weekly conference call and discussed code for the final phase.   The submitted code has been agreed upon by the team.   
